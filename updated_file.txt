@@ -1,4 +1,4 @@
-please read
-Html
-Css
-JavaScript
+C
+C++
+Java Script
+Ruby on rails
